@@ -2,7 +2,7 @@ from django.db import models
 from django.contrib.auth.models import User
 from django.core.files.storage import FileSystemStorage
 
-
+# just to comment and push
 # Create your models here.
 
 fs = FileSystemStorage(location='/media')
