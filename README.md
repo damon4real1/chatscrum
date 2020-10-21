@@ -1,4 +1,4 @@
-Used for jenkins test
+Used for jenkin test
 
 After pulling  this project from the remote repository, you should see two new folders (Angular, Django) and this README file.
 
