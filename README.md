@@ -4,7 +4,7 @@ After pulling  this project from the remote repository, you should see two new f
 
 
 
-Django contains all the full source.
+Django contains all the full source
 ok
 To get the slack.com to redirect to the Angular front end. open settings.py and edit "FRONTEND" variable on the last line to the appropriate frontend URL
 
